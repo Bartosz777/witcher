@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/witcher/static/media/logo.85455cf6.svg"
   },
   {
-    "revision": "6c61a6f463b7a8e39be6f9132a989b18",
+    "revision": "95c199e21cbe0257354f4248e3e5c080",
     "url": "/witcher/index.html"
   }
 ];
