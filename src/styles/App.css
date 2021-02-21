@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #3F4A5A;
+  color: rgb(228, 228, 228);
+  height: 100vh;
+}
+
+header {
+  width: 100%;
+  height: 20vh;
+}
+
+footer {
+  position: relative;
+}
+
+main {
+  padding: 15px 0;
+  display: flex;
+}
+
+.page {
+  text-align: justify;
+}

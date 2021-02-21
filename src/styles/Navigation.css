@@ -1,0 +1,48 @@
+.menu > ul {
+    list-style-type: none;
+}
+
+.menu > ul > li > a {
+    display: block;
+    color: rgb(228, 228, 228);
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-left: 10px solid;
+    margin: 0 15px;
+    font-size: 20px;
+    transition: .4s;
+}
+
+.menu > ul > li {
+    margin-bottom: 25px;
+}
+
+.menu ul li a:hover {
+    transform: translateX(20px);
+}
+
+.menu ul li a.active {
+    transform: translateX(0)
+}
+
+
+.menu > ul > li:nth-child(1) > a.active {
+    border-color: rgba(115, 226, 245, 1);
+}
+
+.menu > ul > li:nth-child(2) > a.active {
+    border-color: rgba(73, 184, 66, 1);
+}
+
+.menu > ul > li:nth-child(3) > a.active {
+    border-color: rgba(128, 24, 197, 1);
+}
+
+.menu > ul > li:nth-child(4) > a.active {
+    border-color: rgba(235, 39, 26, 1);
+}
+
+.menu > ul > li:nth-child(5) > a.active {
+    border-color: rgba(219, 203, 12, 1);
+}

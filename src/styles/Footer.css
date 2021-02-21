@@ -1,0 +1,8 @@
+.foot {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    padding: 6px 0;
+}
