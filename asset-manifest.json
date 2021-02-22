@@ -1,5 +1,5 @@
 {
-  "main.css": "/witcher/static/css/main.33442c4d.chunk.css",
+  "main.css": "/witcher/static/css/main.b0b11600.chunk.css",
   "main.js": "/witcher/static/js/main.884e92ae.chunk.js",
   "main.js.map": "/witcher/static/js/main.884e92ae.chunk.js.map",
   "runtime~main.js": "/witcher/static/js/runtime~main.cf540746.js",
@@ -7,8 +7,8 @@
   "static/js/2.19e651e6.chunk.js": "/witcher/static/js/2.19e651e6.chunk.js",
   "static/js/2.19e651e6.chunk.js.map": "/witcher/static/js/2.19e651e6.chunk.js.map",
   "index.html": "/witcher/index.html",
-  "precache-manifest.49879a6a2682e97562748c1b99f1102c.js": "/witcher/precache-manifest.49879a6a2682e97562748c1b99f1102c.js",
+  "precache-manifest.8b1f3bf4ea6deaefe17ac6ba315bca9e.js": "/witcher/precache-manifest.8b1f3bf4ea6deaefe17ac6ba315bca9e.js",
   "service-worker.js": "/witcher/service-worker.js",
-  "static/css/main.33442c4d.chunk.css.map": "/witcher/static/css/main.33442c4d.chunk.css.map",
+  "static/css/main.b0b11600.chunk.css.map": "/witcher/static/css/main.b0b11600.chunk.css.map",
   "static/media/logo.svg": "/witcher/static/media/logo.85455cf6.svg"
 }
