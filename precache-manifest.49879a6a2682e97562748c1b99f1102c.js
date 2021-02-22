@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "68b3e691c80ef87d422e",
-    "url": "/witcher/static/css/main.28da995f.chunk.css"
+    "revision": "0c7d10221e41992616be",
+    "url": "/witcher/static/css/main.33442c4d.chunk.css"
   },
   {
-    "revision": "68b3e691c80ef87d422e",
+    "revision": "0c7d10221e41992616be",
     "url": "/witcher/static/js/main.884e92ae.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/witcher/static/media/logo.85455cf6.svg"
   },
   {
-    "revision": "211e1fa2abfd30a308984fc67725efc3",
+    "revision": "bad3ba56a7b85a2fb7b7fec643f4b461",
     "url": "/witcher/index.html"
   }
 ];
