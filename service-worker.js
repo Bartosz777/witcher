@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/witcher/precache-manifest.6c86610a0bb27b14d72c128988f2b5ed.js"
+  "/witcher/precache-manifest.b9abb23baccc782e9cb7c889b7bd73c3.js"
 );
 
 workbox.clientsClaim();
